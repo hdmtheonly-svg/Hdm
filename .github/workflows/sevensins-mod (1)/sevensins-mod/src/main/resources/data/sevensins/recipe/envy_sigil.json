@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["GGG", "GXG", "GGG"],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "X": { "item": "minecraft:ender_eye" }
+  },
+  "result": { "id": "sevensins:envy_sigil", "count": 1 }
+}
